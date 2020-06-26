@@ -3,7 +3,7 @@
 ###############
 
 # Student is a class
-# I don't knom why but C is CAPITAL!
+# I don't know why but C is CAPITAL!
 Class Student
 
 # show method for Student class
